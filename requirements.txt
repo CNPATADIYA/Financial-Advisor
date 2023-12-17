@@ -8,3 +8,4 @@ tiktoken==0.4.0
 OpenAI == 0.28.0
 faiss-cpu==1.7.4
 streamlit==1.22.0
+langchain_community
